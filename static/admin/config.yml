@@ -1,5 +1,5 @@
 backend:
-  name: srisaikamal2000@gmail.com
+  name: github
   repo: https://github.com/srisaikamal/Customsroms.me
 media_folder: static/assets
 public_folder: /assets
