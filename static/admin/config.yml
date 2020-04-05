@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: W3Layouts/gatsby-starter-delog
+  name: srisaikamal2000@gmail.com
+  repo: https://github.com/srisaikamal/Customsroms.me
 media_folder: static/assets
 public_folder: /assets
 collections:
