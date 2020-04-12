@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/srisaikamal/Customsroms.me
+  repo: github.com/srisaikamal/Customsroms.me
 media_folder: static/assets
 public_folder: /assets
 collections:
